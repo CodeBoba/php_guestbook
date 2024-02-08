@@ -1,0 +1,27 @@
+.comments{
+    position:relative;
+    width:400px;
+    border: 1px solid gray;
+    padding:10px;
+    border-radius:10px;
+    background-color:bisque;
+    margin-bottom: 5px;
+}
+.name{
+    display: inline-block;
+    padding: 0 4px 0 4px;
+    background-color:rgba(0,0,255,0.3);
+    border-radius: 4px;
+    margin-bottom: 5px;
+}
+.datum{
+    position:absolute;
+    top:10px;
+    right:10px;
+    width:50px;
+    padding: 0 4px 0 4px;
+    background-color:rgba(128,128,128,0.3);
+    border-radius: 4px;
+    font-size: 0.6rem; 
+    text-align: center;
+}
